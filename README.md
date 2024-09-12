@@ -1,5 +1,12 @@
+
+
 # OSSU Computer Science Journey
 
+<p>
+  <a href="https://github.com/ossu/computer-science">
+    <img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg">
+  </a>
+</p>
 This repository is dedicated to tracking my journey through the [OSSU Computer Science](https://github.com/ossu/computer-science) curriculum. This curriculum is a complete path to obtaining a strong foundation in computer science, covering a wide range of topics from programming to systems, theory, and applications.
 
 ## 🎯 What This Repository Is About
