@@ -64,9 +64,9 @@ The OSSU curriculum contains several topics, each with multiple courses. Below i
 
 ### 📚 Advanced CS
 
-| Course Category | Course Title | Progress | Notes / Assignments |  Topics  |
-| --------------- | ------------ | -------- | ------------------- | -------- |
-|        -        |       -      |    -     |         -           |    -     |
+| Course | Course Title | Progress | Notes / Assignments |  Topics  |
+| ------ | ------------ | -------- | ------------------- | -------- |
+|    -   |       -      |    -     |         -           |    -     |
 
 ### 📚 Final Project
 
