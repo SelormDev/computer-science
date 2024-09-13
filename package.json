@@ -1,0 +1,25 @@
+{
+  "name": "computer-science",
+  "version": "1.0.0",
+  "description": "Tracking my progress through the OSSU Computer Science curriculum.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SelormDev/computer-science.git"
+  },
+  "keywords": [
+    "computer-science",
+    "ossu",
+    "education",
+    "self-learning"
+  ],
+  "author": "SelormDev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SelormDev/computer-science/issues"
+  },
+  "homepage": "https://github.com/SelormDev/computer-science#readme"
+}
