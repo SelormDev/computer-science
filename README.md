@@ -50,29 +50,29 @@ The OSSU curriculum contains several topics, each with multiple courses. Below i
 
 ### 📚 Intro CS
 
-| Course                      | Course Title                                                                                                         | Progress                | Notes / Assignments                                                                            |          Topics           |
+| Course Category                     | Course Title                                                                                                         | Progress                | Notes / Assignments                                                                            |          Topics           |
 | ------------------------------------ | -------------------------------------------------------------------------------------------------------------------- | ----------------------- | ---------------------------------------------------------------------------------------------- | ------------------------ |
-| **Introduction to Programing**       | [CS50P: Introduction to Programming with Python](https://cs50.harvard.edu/python/)                                   | Completed               | [CS50P Notes](./Intro%20CS/01-Introduction-to-Programming/CS50P/Notes.md)                      |   `Programming` `Python`  |
+| **Introduction to Programing**       | [CS50P: Introduction to Programming with Python](https://cs50.harvard.edu/python/)                                   | Not Started               | [CS50P Notes](./Intro%20CS/01-Introduction-to-Programming/CS50P/Notes.md)                      |   `Programming` `Python`  |
 |                                      | [Python for Everybody](https://www.py4e.com/lessons/introduction-to-computer-science-and-programming-using-python-0) | In Progress             | [PY4E Notes](./Intro%20CS/01-Introduction-to-Programming/PY4E/Notes.md)                        |   `Programming` `Python`  |
 | **Introduction to Computer Science** | [MITx 6.00.1x](https://learning.edx.org/course/course-v1:MITx+6.00.1x+2T2018/home2021/)                              | Unit 2: Simple Programs | [MITx 6.00.1x Notes](./Intro%20CS/02-Introduction-to-Computer-Science/Mitx%206.00.1x/Notes.md) |  `Programming` `Python`  |
 
 ### 📚 Core CS
 
-| Course  | Course Title | Progress | Notes / Assignments |  Topics  |
-| ------- | ------------ | -------- | ------------------- | -------- |
-|    -    |       -      |     -    |          -          |    -     |
+| Course Category | Course Title | Progress | Notes / Assignments |  Topics  |
+| --------------- | ------------ | -------- | ------------------- | -------- |
+|        -        |       -      |     -    |          -          |    -     |
 
 ### 📚 Advanced CS
 
-| Course | Course Title | Progress | Notes / Assignments |  Topics  |
-| ------ | ------------ | -------- | ------------------- | -------- |
-|    -   |       -      |    -     |         -           |    -     |
+| Course Category | Course Title | Progress | Notes / Assignments |  Topics  |
+| --------------- | ------------ | -------- | ------------------- | -------- |
+|        -        |       -      |    -     |         -           |    -     |
 
 ### 📚 Final Project
 
-| Course | Course Title | Progress | Notes / Assignments |  Topics  |
-| ------ | ------------ | -------- | ------------------- | -------- |
-|    -   |       -      |     -    |          -          |    -     |
+| Course Category | Course Title | Progress | Notes / Assignments |  Topics  |
+| --------------- | ------------ | -------- | ------------------- | -------- |
+|        -        |       -      |     -    |          -          |    -     |
 
 ---
 
