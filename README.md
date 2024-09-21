@@ -40,7 +40,7 @@ I am dedicated to self-paced learning, focusing on mastering the fundamentals of
 | Entrance Survey                    | &#10003; | Completed                                       |
 | Download Python and Get Motivated! | &#10003; | Python installed and ready                      |
 | Unit 1: Python Basics              | &#10003; | Completed basic syntax and programming concepts |
-| Unit 2: Simple Programs            |          | Currently working on this unit                  |
+| Unit 2: Simple Programs            |          | Working on Floats and Fractions                  |
 
 ---
 
