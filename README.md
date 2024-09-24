@@ -6,7 +6,7 @@
 <div align="center">
 
 [![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)
-![License](https://img.shields.io/github/license/selormdev/computer-science?color=yellow)
+[![License](https://img.shields.io/github/license/selormdev/computer-science?color=yellow)](https://github.com/SelormDev/computer-science?tab=MIT-1-ov-file)
 ![Code size in bytes](https://img.shields.io/github/languages/code-size/selormdev/computer-science?color=blue)
 ![Top language](https://img.shields.io/github/languages/top/selormdev/computer-science?color=ff69b4)
 ![Last commit](https://img.shields.io/github/last-commit/selormdev/computer-science?color=orange)
