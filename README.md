@@ -32,15 +32,12 @@ I am dedicated to self-paced learning, focusing on mastering the fundamentals of
 
 ## 📈 Current Progress
 
-### MITx 6.00.1x - Introduction to Computer Science and Programming Using Python
+### Systematic Program Design - Part 1
 
-| Module                             | Status   | Notes                                           |
-| ---------------------------------- | -------- | ----------------------------------------------- |
-| Welcome to the edX Platform        | &#10003; | Completed                                       |
-| Entrance Survey                    | &#10003; | Completed                                       |
-| Download Python and Get Motivated! | &#10003; | Python installed and ready                      |
-| Unit 1: Python Basics              | &#10003; | Completed basic syntax and programming concepts |
-| Unit 2: Simple Programs            |          | Working on Floats and Fractions                  |
+| Module                             | Status      |    Notes      |
+| ---------------------------------- | --------    | ------------- |
+| 0: Introduction                    | &#10003;    | Completed     |
+| 1a: Beginning Student Language     | In Progress |   &#128683;   |
 
 ---
 
@@ -56,11 +53,11 @@ The OSSU curriculum contains several topics, each with multiple courses. Below i
 | :-- | :--: | :-- | :--: |
 | [Introduction to programming](Intro-CS\01-Introduction-to-Programming) | `simple programs` `simple data structures` | [Link](Intro-CS\01-Introduction-to-Programming\PY4E\Notes.md) | `N/A` |
 
-#### ✅ Introduction to Computer Science
+#### &#9989; Introduction to Computer Science
 
 | Courses | Topics covered |  Notes  | Certificate |
 | :-- | :-- | :--: | :--: |
-|✅ [Introduction to Computer Science and Programming using Python](https://www.edx.org/learn/computer-science/massachusetts-institute-of-technology-introduction-to-computer-science-and-programming-using-python) | `computation` `imperative programming` `basic data structures and algorithms` | [Link](Intro-CS\01-Introduction-to-Programming\PY4E\Notes.md) | ![Certificate of completeion](certificates\certification-placeholder1.jpg) |
+| &#9989; [Introduction to Computer Science and Programming using Python](https://www.edx.org/learn/computer-science/massachusetts-institute-of-technology-introduction-to-computer-science-and-programming-using-python) | `computation` `imperative programming` `basic data structures and algorithms` | [Link](Intro-CS\01-Introduction-to-Programming\PY4E\Notes.md) | ![Certificate of completeion](certificates\certification-placeholder1.jpg) |
 
 ### 📚 Core CS
 
