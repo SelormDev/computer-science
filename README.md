@@ -57,7 +57,7 @@ The OSSU curriculum contains several topics, each with multiple courses. Below i
 
 | Courses | Topics covered |  Notes  | Certificate |
 | :-- | :-- | :--: | :--: |
-| &#9989; [Introduction to Computer Science and Programming using Python](https://www.edx.org/learn/computer-science/massachusetts-institute-of-technology-introduction-to-computer-science-and-programming-using-python) | `computation` `imperative programming` `basic data structures and algorithms` | [Link](Intro-CS\01-Introduction-to-Programming\PY4E\Notes.md) | ![Certificate of completeion](certificates\certification-placeholder1.jpg) |
+| &#9989; [Introduction to Computer Science and Programming using Python](https://www.edx.org/learn/computer-science/massachusetts-institute-of-technology-introduction-to-computer-science-and-programming-using-python) | `computation` `imperative programming` `basic data structures and algorithms` | [Link](Intro-CS\01-Introduction-to-Programming\PY4E\Notes.md) | ![Certificate of completeion](./certificates//certification-placeholder1.jpg) |
 
 ### 📚 Core CS
 
