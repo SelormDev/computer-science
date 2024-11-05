@@ -51,7 +51,7 @@ The OSSU curriculum contains several topics, each with multiple courses. Below i
 
 | Courses | Topics covered | Notes | Certificate |
 | :-- | :--: | :-- | :--: |
-| [Introduction to programming](Intro-CS\01-Introduction-to-Programming) | `simple programs` `simple data structures` | [Link](Intro-CS\01-Introduction-to-Programming\PY4E\Notes.md) | `N/A` |
+| [Introduction to programming](https://www.coursera.org/learn/python?specialization=python) | `simple programs` `simple data structures` | [Link](Intro-CS\01-Introduction-to-Programming\PY4E\Notes.md) | `N/A` |
 
 #### &#9989; Introduction to Computer Science
 
@@ -79,7 +79,7 @@ The OSSU curriculum contains several topics, each with multiple courses. Below i
 
 | Courses | Topics covered | Notes | Certificate |
 | :-- | :--: | :--: | :--: |
-| [Systematic Program Design](coursepages/spd/README.md) | - | - | - |
+| [Systematic Program Design](https://learning.edx.org/course/course-v1:UBCx+SPD1x+2T2015) | - | - | - |
 | [Class-based Program Design](https://course.ccs.neu.edu/cs2510sp22/index.html) | - | - | - |
 | [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | - | - | - |
 | [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | - | - | - |
