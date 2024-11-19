@@ -37,7 +37,7 @@ I am dedicated to self-paced learning, focusing on mastering the fundamentals of
 | Module                             | Status      |    Notes      |
 | ---------------------------------- | --------    | ------------- |
 | 0: Introduction                    | &#10003;    | Completed     |
-| 1a: Beginning Student Language     | In Progress |   &#128683;   |
+| 1a: Beginning Student Language     | In Progress |   <ul><li>[Created my first bsl image program with DrRacket](/Core-CS/Systematic-Program-Design/Part-01/Create%20your%20own%20image.rkt)</li><li></li><li></li></ul>   |
 
 ---
 
