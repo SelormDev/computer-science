@@ -37,7 +37,7 @@ I am dedicated to self-paced learning, focusing on mastering the fundamentals of
 | Module                             | Status      |    Notes      |
 | ---------------------------------- | --------    | ------------- |
 | 0: Introduction                    | &#10003;    | Completed     |
-| 1a: Beginning Student Language     | In Progress |   <ul><li>[Created my first bsl image program with DrRacket](/Core-CS/Systematic-Program-Design/Part-01/1a-BSL/Create%20your%20own%20image.rkt)</li><li>[Learnt how to perform arithmetic operation using the the BSL language](Core-CS\Systematic-Program-Design\Part-01\1a-BSL\Exercises\more-arithmetic-expression-starter.rkt)</li><li></li></ul>   |
+| 1a: Beginning Student Language     | In Progress |   <ul><li>[Created my first bsl image program with DrRacket](/Core-CS/Systematic-Program-Design/Part-01/1a-BSL/Create%20your%20own%20image.rkt)</li><li>[Learnt how to perform arithmetic operation using the the BSL language](Core-CS/Systematic-Program-Design/Part-01/1a-BSL/Exercises/more-arithmetic-expression-starter.rkt)</li><li></li></ul>   |
 
 ---
 
