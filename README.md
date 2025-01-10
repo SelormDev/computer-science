@@ -34,10 +34,10 @@ I am dedicated to self-paced learning, focusing on mastering the fundamentals of
 
 ### Systematic Program Design - Part 1
 
-| Module                             | Status      |    Notes      |
-| ---------------------------------- | :--------:    | :-------------: |
-| 0: Introduction                    | &#10003;    | Completed     |
-| 1a: Beginning Student Language     | <ul><li>[Expressions](Core-CS/Systematic-Program-Design/Part-01/1a-BSL/note.md#expressions)</li></ul> |   [Link](Core-CS/Systematic-Program-Design/Part-01/1a-BSL/note.md)   |
+| Module                             | Status      |    Notes        |
+| ---------------------------------- | --------    | :-------------: |
+| 0: Introduction                    | Completed    |         -       |
+| 1a: Beginning Student Language     | [Learning how to **evaluate** expressions](Core-CS/Systematic-Program-Design/Part-01/1a-BSL/note.md#evaluation) |   [Link](Core-CS/Systematic-Program-Design/Part-01/1a-BSL/note.md)   |
 
 ---
 
