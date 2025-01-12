@@ -15,11 +15,11 @@
 
 <!-- # OSSU Computer Science Journey -->
 
-This repository is dedicated to tracking my journey through the [OSSU Computer Science](https://github.com/ossu/computer-science) curriculum. This curriculum is a complete path to obtaining a strong foundation in computer science, covering a wide range of topics from programming to systems, theory, and applications.
+
 
 ## 🎯 What This Repository Is About
 
-I am currently learning the fundamentals of computer science, following the OSSU curriculum which is based on top university courses. This repo serves as my progress tracker, including the courses I have completed and the ones I am currently studying. Additionally, it provides a record of notes, projects, and assignments I will work on as part of this curriculum.
+This repository is dedicated to tracking my journey through the [OSSU Computer Science](https://github.com/ossu/computer-science) curriculum. This curriculum is a complete path to obtaining a strong foundation in computer science, covering a wide range of topics from programming to systems, theory, and applications.
 
 ## 📚 What I’m Doing
 
@@ -50,14 +50,14 @@ The OSSU curriculum contains several topics, each with multiple courses. Below i
 #### Introduction to Programming
 
 | Courses | Topics covered | Notes | Certificate |
-| :-- | :--: | :-- | :--: |
+| :-- | :--: | :--: | :--: |
 | [Introduction to programming](https://www.coursera.org/learn/python?specialization=python) | `simple programs` `simple data structures` | [Link](Intro-CS\01-Introduction-to-Programming\PY4E\Notes.md) | `N/A` |
 
 #### &#9989; Introduction to Computer Science
 
 | Courses | Topics covered |  Notes  | Certificate |
-| :-- | :-- | :--: | :--: |
-| &#9989; [Introduction to Computer Science and Programming using Python](https://www.edx.org/learn/computer-science/massachusetts-institute-of-technology-introduction-to-computer-science-and-programming-using-python) | `computation` `imperative programming` `basic data structures and algorithms` | [Link](Intro-CS\01-Introduction-to-Programming\PY4E\Notes.md) | [![Certificate of completeion](./certificates//intro-to-cs-with-python.png)](https://courses.edx.org/certificates/b4226add6fc94636bf7485a8e6f4423f) |
+| :-- | :--: | :--: | :--: |
+|[Introduction to Computer Science and Programming using Python](https://www.edx.org/learn/computer-science/massachusetts-institute-of-technology-introduction-to-computer-science-and-programming-using-python) | `computation` `imperative programming` `basic data structures and algorithms` | [Link](Intro-CS\01-Introduction-to-Programming\PY4E\Notes.md) | [![Certificate of completeion](./certificates//intro-to-cs-with-python.png)](https://courses.edx.org/certificates/b4226add6fc94636bf7485a8e6f4423f) |
 
 ### 📚 Core CS
 
