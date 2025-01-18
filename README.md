@@ -45,7 +45,7 @@ The OSSU curriculum contains several topics, each with multiple courses. Below i
 
 ### 📚 Intro CS
 
-#### Introduction to Programming
+#### &#9989; Introduction to Programming
 
 | Courses | Topics covered | Notes | Certificate |
 | :-- | :--: | :--: | :--: |
