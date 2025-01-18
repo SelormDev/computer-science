@@ -15,8 +15,6 @@
 
 <!-- # OSSU Computer Science Journey -->
 
-
-
 ## 🎯 What This Repository Is About
 
 This repository is dedicated to tracking my journey through the [OSSU Computer Science](https://github.com/ossu/computer-science) curriculum. This curriculum is a complete path to obtaining a strong foundation in computer science, covering a wide range of topics from programming to systems, theory, and applications.
