@@ -115,7 +115,7 @@ The OSSU curriculum contains several topics, each with multiple courses. Below i
 | :-- | :--: | :--: | :--: |
 | [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) |- |- | - |
 
-#### Core systems
+#### Core Systems
 
 **Topics To Be covered**:
 `procedural programming`
@@ -140,7 +140,7 @@ The OSSU curriculum contains several topics, each with multiple courses. Below i
 | [Operating Systems: Three Easy Pieces](coursepages/ostep/README.md) | - | - | - |
 | [Computer Networking: a Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)| - | - | - |
 
-#### Core theory
+#### Core Theory
 
 **Topics To Be covered**:
 `divide and conquer`
@@ -162,7 +162,7 @@ The OSSU curriculum contains several topics, each with multiple courses. Below i
 | [Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy) | - | - | - |
 | [Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete) | - | - | - |
 
-#### Core security
+#### Core Security
 
 **Topics To Be covered**
 `Confidentiality, Integrity, Availability`
@@ -182,7 +182,7 @@ The OSSU curriculum contains several topics, each with multiple courses. Below i
 | [Identifying Security Vulnerabilities in C/C++Programming](https://www.coursera.org/learn/identifying-security-vulnerabilities-c-programming) | - | - | - |
 | [Exploiting and Securing Vulnerabilities in Java Applications](https://www.coursera.org/learn/exploiting-securing-vulnerabilities-java-applications) | - | - | - |
 
-#### Core applications
+#### Core Applications
 
 **Topics To Be covered**:
 `Agile methodology`
@@ -208,7 +208,7 @@ The OSSU curriculum contains several topics, each with multiple courses. Below i
 | [Computer Graphics](https://www.edx.org/course/computer-graphics-2) ([alternative](https://cseweb.ucsd.edu/~viscomp/classes/cse167/wi22/schedule.html))| - | - | - |
 | [Software Engineering: Introduction](https://www.edx.org/learn/software-engineering/university-of-british-columbia-software-engineering-introduction) | - | - | - |
 
-#### Core ethics
+#### Core Ethics
 
 **Topics To Be covered**:
 `Social Context`
@@ -226,7 +226,7 @@ The OSSU curriculum contains several topics, each with multiple courses. Below i
 
 ### 📚 Advanced CS
 
-#### |  Advanced programming
+#### |  Advanced Programming
 
 **Topics To Be covered**:
 `debugging theory and practice`
@@ -248,7 +248,7 @@ The OSSU curriculum contains several topics, each with multiple courses. Below i
 
 (*) book by Blackburn, Bos, Striegnitz (compiled from [source](https://github.com/LearnPrologNow/lpn), redistributed under [CC license](https://creativecommons.org/licenses/by-sa/4.0/))
 
-#### Advanced systems
+#### Advanced Systems
 
 **Topics covered**:
 `digital signaling`
@@ -272,7 +272,7 @@ The OSSU curriculum contains several topics, each with multiple courses. Below i
 | [Computation Structures 2: Computer Architecture](https://learning.edx.org/course/course-v1:MITx+6.004.2x+3T2015) | - | - | - |
 | [Computation Structures 3: Computer Organization](https://learning.edx.org/course/course-v1:MITx+6.004.3x_2+1T2017) | - | - | - |
 
-#### Advanced theory
+#### Advanced Theory
 
 **Topics To Be covered**:
 `formal languages`
@@ -307,7 +307,7 @@ The OSSU curriculum contains several topics, each with multiple courses. Below i
 | [Secure Software Development: Implementation](https://www.edx.org/course/secure-software-development-implementation) | - | - | - |
 | [Secure Software Development: Verification and More Specialized Topics](https://www.edx.org/course/secure-software-development-verification-and-more-specialized-topics) | - | - | - |
 
-### Advanced math
+### Advanced Math
 
 | Courses | Topics covered | Notes |  Certificate |
 | :-- | :--: | :--: | :--: |
@@ -354,6 +354,7 @@ Stay tuned for more updates as I continue through the OSSU curriculum!
 
 - Python
 - JavaScript
+- DrRacket
 - Git & GitHub
 
 ### 📜 License
