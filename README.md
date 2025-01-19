@@ -138,7 +138,7 @@ The OSSU curriculum contains several topics, each with multiple courses. Below i
 | :-- | :--: | :--: | :--: |
 | [Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) ([alternative](https://www.nand2tetris.org/)) | - | - | - |
 | [Build a Modern Computer from First Principles: Nand to Tetris Part II](https://www.coursera.org/learn/nand2tetris2) | - | - | - |
-| [Operating Systems: Three Easy Pieces](coursepages/ostep/README.md) | - | - | - |
+| [Operating Systems: Three Easy Pieces]([coursepages/ostep/README.md](https://github.com/ossu/computer-science/blob/master/coursepages/ostep/README.md)) | - | - | - |
 | [Computer Networking: a Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)| - | - | - |
 
 #### Core Theory
