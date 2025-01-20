@@ -9,6 +9,7 @@
   - [Core Concepts](#core-concepts)
     - [Expressions](#expressions)
     - [Evaluation](#evaluation)
+    - [Strings and Images](#strings-and-images)
 
 ## Overview
 
@@ -43,3 +44,5 @@ There are **two** rules for evaluation. The first rule is to reduce operands to 
 
 7
 ```
+
+### Strings and Images
