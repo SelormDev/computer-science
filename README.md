@@ -36,7 +36,7 @@ I am dedicated to self-paced learning, focusing on mastering the fundamentals of
 | Module                             | Status      |    Notes        |
 | ---------------------------------- | --------    | :-------------: |
 | 0: Introduction                    | Completed    |         -       |
-| 1a: Beginning Student Language     | [Learning how to **evaluate** expressions](Core-CS/Systematic-Program-Design/Part-01/1a-BSL/note.md#evaluation) |   [Link](Core-CS/Systematic-Program-Design/Part-01/1a-BSL/note.md)   |
+| 1a: Beginning Student Language     | [Learning how to **evaluate** expressions](Core-CS/Systematic-Program-Design/Part-01/1a-BSL/note.md#evaluation) |   [Link](Core-CS/Systematic-Program-Design/Part-01/1a-BSL/note.md#evaluation)   |
 
 ---
 
