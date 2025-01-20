@@ -46,3 +46,5 @@ There are **two** rules for evaluation. The first rule is to reduce operands to 
 ```
 
 ### Strings and Images
+
+In this section, I learned about the string and image primitives values. We can create a string by enclosing it in double quotes. Eg. "SelormDev". I also learned a couple of primitives that operate on strings. Examples are the `string-length` and `string-append` functions. The `string-length` function returns the length of a string and the `string-append` function concatenates two strings. There's also `substring` which sorts of slices part of a string with zero based indexing.
