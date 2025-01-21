@@ -48,3 +48,17 @@ There are **two** rules for evaluation. The first rule is to reduce operands to 
 ### Strings and Images
 
 In this section, I learned about the string and image primitives values. We can create a string by enclosing it in double quotes. Eg. "SelormDev". I also learned a couple of primitives that operate on strings. Examples are the `string-length` and `string-append` functions. The `string-length` function returns the length of a string and the `string-append` function concatenates two strings. There's also `substring` which sorts of slices part of a string with zero based indexing.
+
+```racket
+(string-length "SelormDev")
+(string-append "Selorm" "Dev")
+(substring "SelormDev" 0 6)
+```
+
+I also learned about the `rectangle` and `circle` functions that create images. The `rectangle` function takes in the width and height of the rectangle and the `circle` function takes in the radius of the circle. I also learned about the `overlay` function that overlays two images on top of each other.
+
+```racket
+(rectangle 100 100 "solid" "blue")
+(circle 50 "solid" "red")
+(overlay (rectangle 100 100 "solid" "blue") (circle 50 "solid" "red"))
+```
