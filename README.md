@@ -36,7 +36,7 @@ I am dedicated to self-paced learning, focusing on mastering the fundamentals of
 | Module                             | Status      |    Notes        |
 | ---------------------------------- | --------    | :-------------: |
 | 0: Introduction                    | Completed    |         -       |
-| 1a: Beginning Student Language     | [Learning about strings and images](Core-CS/Systematic-Program-Design/Part-01/1a-BSL/note.md#evaluation) |   [Link](Core-CS/Systematic-Program-Design/Part-01/1a-BSL/note.md#strings-and-images)   |
+| 1a: Beginning Student Language     | [Learning about constant definition](Core-CS/Systematic-Program-Design/Part-01/1a-BSL/bsl.md#constant-definitions) |   [Link](Core-CS/Systematic-Program-Design/Part-01/1a-BSL/bsl.md)   |
 
 ---
 
