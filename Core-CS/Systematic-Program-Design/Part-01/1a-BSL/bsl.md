@@ -11,6 +11,7 @@
     - [Evaluation](#evaluation)
     - [Strings and Images](#strings-and-images)
     - [Constant Definitions](#constant-definitions)
+    - [Function Definitions](#function-definitions)
 
 ## Overview
 
@@ -67,3 +68,5 @@ I also learned about the `rectangle` and `circle` functions that create images. 
 ### Constant Definitions
 
 A constant definition basicaly is storing a value in a constant variable. The syntax is `(define constant-name value)`. For example, `(define pi 3.14)` defines a constant `pi` with the value `3.14`. We can then use the constant in expressions. For example, `(* pi 2)` evaluates to `6.28`.
+
+### Function Definitions
