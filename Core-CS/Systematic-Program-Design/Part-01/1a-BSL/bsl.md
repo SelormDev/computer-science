@@ -34,6 +34,8 @@ Learn how to:
 An expression is a combination of operators and operands that can be evaluated to a value.
 It can formed by opening a parenthesis, followed by an operator, followed by any number of operands, and closed by a parenthesis. For example, the expression `(+ 1 2)` adds the numbers 1 and 2. The expression `(+ 1 (* 2 3))` adds 1 to the product of 2 and 3.
 
+<br>
+
 ### Evaluation
 
 The evaluation of an expression is the process of simplifying it to a single value. For example, the expression `(+ 1 2)` evaluates to 3.
@@ -46,6 +48,8 @@ There are **two** rules for evaluation. The first rule is to reduce operands to 
 
 7
 ```
+
+<br>
 
 ### Strings and Images
 
@@ -65,8 +69,21 @@ I also learned about the `rectangle` and `circle` functions that create images. 
 (overlay (rectangle 100 100 "solid" "blue") (circle 50 "solid" "red"))
 ```
 
+<br>
+
 ### Constant Definitions
 
 A constant definition basicaly is storing a value in a constant variable. The syntax is `(define constant-name value)`. For example, `(define pi 3.14)` defines a constant `pi` with the value `3.14`. We can then use the constant in expressions. For example, `(* pi 2)` evaluates to `6.28`.
 
+<br>
+
 ### Function Definitions
+
+A function definition is a way to define a function that can be called later. The syntax is `(define (function-name parameter-list) body)`. For example, `(define (square x) (* x x))` defines a function `square` that takes in a parameter `x` and returns the square of `x`. We can then call the function by passing in a value. For example, `(square 5)` evaluates to `25`.
+
+```racket
+(define (square x) (* x x))
+(square 5)
+```
+
+<br>
