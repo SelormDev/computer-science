@@ -5,7 +5,13 @@
 
 version: 2
 updates:
+  # For JavaScript/Node.js
   - package-ecosystem: "npm" # See documentation for possible values
+    directory: "/" # Location of package manifests
+    schedule:
+      interval: "weekly"
+  # For Python
+  - package-ecosystem: "pip" # See documentation for possible values
     directory: "/" # Location of package manifests
     schedule:
       interval: "weekly"
