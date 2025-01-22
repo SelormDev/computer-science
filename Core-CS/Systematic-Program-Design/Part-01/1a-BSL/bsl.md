@@ -12,6 +12,7 @@
     - [Strings and Images](#strings-and-images)
     - [Constant Definitions](#constant-definitions)
     - [Function Definitions](#function-definitions)
+    - [Booleans and if Expressions](#booleans-and-if-expressions)
 
 ## Overview
 
@@ -75,6 +76,11 @@ I also learned about the `rectangle` and `circle` functions that create images. 
 
 A constant definition basicaly is storing a value in a constant variable. The syntax is `(define constant-name value)`. For example, `(define pi 3.14)` defines a constant `pi` with the value `3.14`. We can then use the constant in expressions. For example, `(* pi 2)` evaluates to `6.28`.
 
+```racket
+(define pi 3.14)
+(* pi 2)
+```
+
 <br>
 
 ### Function Definitions
@@ -87,3 +93,5 @@ A function definition is a way to define a function that can be called later. Th
 ```
 
 <br>
+
+### Booleans and if Expressions
