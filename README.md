@@ -10,7 +10,7 @@
 ![Code size in bytes](https://img.shields.io/github/languages/code-size/selormdev/computer-science?color=blue)
 ![Top language](https://img.shields.io/github/languages/top/selormdev/computer-science?color=ff69b4)
 ![Last commit](https://img.shields.io/github/last-commit/selormdev/computer-science?color=orange)
-[![Total cost](https://img.shields.io/badge/$-14.90-green)](./certificates/total_cost.md)
+[![Total cost](https://img.shields.io/badge/$-39.90-green)](./certificates/total_cost.md)
 
 </div>
 
