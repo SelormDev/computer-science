@@ -5,12 +5,18 @@
 
 <div align="center">
 
-[![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)
-[![License](https://img.shields.io/github/license/selormdev/computer-science?color=yellow)](https://github.com/SelormDev/computer-science?tab=MIT-1-ov-file)
-![Code size in bytes](https://img.shields.io/github/languages/code-size/selormdev/computer-science?color=blue)
-![Top language](https://img.shields.io/github/languages/top/selormdev/computer-science?color=ff69b4)
-![Last commit](https://img.shields.io/github/last-commit/selormdev/computer-science?color=orange)
-[![Total cost](https://img.shields.io/badge/$-39.90-green)](./certificates/total_cost.md)
+<a href="https://github.com/ossu/computer-science">
+  <img src="https://img.shields.io/badge/OSSU-computer--science-blue.svg" alt="Open Source Society University - Computer Science">
+</a>
+<a href="https://github.com/SelormDev/computer-science?tab=MIT-1-ov-file">
+  <img src="https://img.shields.io/github/license/selormdev/computer-science?color=yellow" alt="License">
+</a>
+<img src="https://img.shields.io/github/languages/code-size/selormdev/computer-science?color=blue" alt="Code size in bytes">
+<img src="https://img.shields.io/github/languages/top/selormdev/computer-science?color=ff69b4" alt="Top language">
+<img src="https://img.shields.io/github/last-commit/selormdev/computer-science?color=orange" alt="Last commit">
+<a href="./certificates/total_cost.md">
+  <img src="https://img.shields.io/badge/$-39.90-green" alt="Total cost">
+</a>
 
 </div>
 
