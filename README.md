@@ -68,20 +68,6 @@ The OSSU curriculum contains several topics, each with multiple courses. Below i
 
 #### Core Programming
 
-**Topics To Be covered**:
-`functional programming`
-`design for testing`
-`program requirements`
-`common design patterns`
-`unit testing`
-`object-oriented design`
-`static typing`
-`dynamic typing`
-`ML-family languages (via Standard ML)`
-`Lisp-family languages (via Racket)`
-`Ruby`
-`and more`
-
 | Courses | Topics covered | Notes | Certificate |
 | :-- | :--: | :--: | :--: |
 | [Systematic Program Design](https://www.edx.org/course/how-to-code-simple-data) | - | - | - |
@@ -94,14 +80,6 @@ The OSSU curriculum contains several topics, each with multiple courses. Below i
 
 #### Core math
 
-**Topics To Be covered**:
-`discrete mathematics`
-`mathematical proofs`
-`basic statistics`
-`O-notation`
-`discrete probability`
-`and more`
-
 | Courses | Topics covered | Notes | Certificate |
 | :-- | :--: | :--: | :--: |
 | [Calculus 1A: Differentiation](https://mitxonline.mit.edu/courses/course-v1:MITxT+18.01.1x/) | - |- | - |
@@ -111,34 +89,11 @@ The OSSU curriculum contains several topics, each with multiple courses. Below i
 
 #### CS Tools
 
-**Topics To Be covered**:
-`terminals and shell scripting`
-`vim`
-`command line environments`
-`version control`
-`and more`
-
 | Courses | Topics covered | Notes |  Certificate |
 | :-- | :--: | :--: | :--: |
 | [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) |- |- | - |
 
 #### Core Systems
-
-**Topics To Be covered**:
-`procedural programming`
-`manual memory management`
-`boolean algebra`
-`gate logic`
-`memory`
-`computer architecture`
-`assembly`
-`machine language`
-`virtual machines`
-`high-level languages`
-`compilers`
-`operating systems`
-`network protocols`
-`and more`
 
 | Courses | Topics covered | Notes |  Certificate |
 | :-- | :--: | :--: | :--: |
@@ -149,19 +104,6 @@ The OSSU curriculum contains several topics, each with multiple courses. Below i
 
 #### Core Theory
 
-**Topics To Be covered**:
-`divide and conquer`
-`sorting and searching`
-`randomized algorithms`
-`graph search`
-`shortest paths`
-`data structures`
-`greedy algorithms`
-`minimum spanning trees`
-`dynamic programming`
-`NP-completeness`
-`and more`
-
 | Courses | Topics covered | Notes |  Certificate |
 | :-- | :--: | :--: | :--: |
 | [Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer) | - | - | - |
@@ -170,15 +112,6 @@ The OSSU curriculum contains several topics, each with multiple courses. Below i
 | [Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete) | - | - | - |
 
 #### Core Security
-
-**Topics To Be covered**
-`Confidentiality, Integrity, Availability`
-`Secure Design`
-`Defensive Programming`
-`Threats and Attacks`
-`Network Security`
-`Cryptography`
-`and more`
 
 | Courses | Topics covered | Notes |  Certificate |
 | :-- | :--: | :--: | :--: |
@@ -191,21 +124,6 @@ The OSSU curriculum contains several topics, each with multiple courses. Below i
 
 #### Core Applications
 
-**Topics To Be covered**:
-`Agile methodology`
-`REST`
-`software specifications`
-`refactoring`
-`relational databases`
-`transaction processing`
-`data modeling`
-`neural networks`
-`supervised learning`
-`unsupervised learning`
-`OpenGL`
-`ray tracing`
-`and more`
-
 | Courses | Topics covered | Notes |  Certificate |
 | :-- | :--: | :--: | :--: |
 | [Databases: Modeling and Theory](https://www.edx.org/course/modeling-and-theory)| - | - | - |
@@ -217,14 +135,6 @@ The OSSU curriculum contains several topics, each with multiple courses. Below i
 
 #### Core Ethics
 
-**Topics To Be covered**:
-`Social Context`
-`Analytical Tools`
-`Professional Ethics`
-`Intellectual Property`
-`Privacy and Civil Liberties`
-`and more`
-
 | Courses | Topics covered | Notes |  Certificate |
 | :-- | :--: | :--: | :--: |
 | [Ethics, Technology and Engineering](https://www.coursera.org/learn/ethics-technology-engineering)| - | - | - |
@@ -234,15 +144,6 @@ The OSSU curriculum contains several topics, each with multiple courses. Below i
 ### 📚 Advanced CS
 
 #### |  Advanced Programming
-
-**Topics To Be covered**:
-`debugging theory and practice`
-`goal-oriented programming`
-`parallel computing`
-`object-oriented analysis and design`
-`UML`
-`large-scale software architecture and design`
-`and more`
 
 | Courses | Topics covered | Notes |  Certificate |
 | :-- | :--: | :--: | :--: |
@@ -257,22 +158,6 @@ The OSSU curriculum contains several topics, each with multiple courses. Below i
 
 #### Advanced Systems
 
-**Topics covered**:
-`digital signaling`
-`combinational logic`
-`CMOS technologies`
-`sequential logic`
-`finite state machines`
-`processor instruction sets`
-`caches`
-`pipelining`
-`virtualization`
-`parallel processing`
-`virtual memory`
-`synchronization primitives`
-`system call interface`
-`and more`
-
 | Courses | Topics covered | Notes |  Certificate |
 | :-- | :--: | :--: | :--: |
 | [Computation Structures 1: Digital Circuits](https://learning.edx.org/course/course-v1:MITx+6.004.1x_3+3T2016) [alternative 1](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/) [alternative 2](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2009/) | - | - | - |
@@ -280,22 +165,6 @@ The OSSU curriculum contains several topics, each with multiple courses. Below i
 | [Computation Structures 3: Computer Organization](https://learning.edx.org/course/course-v1:MITx+6.004.3x_2+1T2017) | - | - | - |
 
 #### Advanced Theory
-
-**Topics To Be covered**:
-`formal languages`
-`Turing machines`
-`computability`
-`event-driven concurrency`
-`automata`
-`distributed shared memory`
-`consensus algorithms`
-`state machine replication`
-`computational geometry theory`
-`propositional logic`
-`relational logic`
-`Herbrand logic`
-`game trees`
-`and more`
 
 | Courses | Topics covered | Notes |  Certificate |
 | :-- | :--: | :--: | :--: |
