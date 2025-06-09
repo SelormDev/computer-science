@@ -70,7 +70,7 @@ The OSSU curriculum contains several topics, each with multiple courses. Below i
 
 | Courses | Topics covered | Notes | Certificate |
 | :-- | :--: | :--: | :--: |
-| [Systematic Program Design](https://www.edx.org/course/how-to-code-simple-data) | - | - | - |
+| [Systematic Program Design](https://www.edx.org/course/how-to-code-simple-data) | `BSL` `HtDF` | - | - |
 | [Class-based Program Design](https://course.ccs.neu.edu/cs2510sp22/index.html) | - | - | - |
 | [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | - | - | - |
 | [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | - | - | - |
