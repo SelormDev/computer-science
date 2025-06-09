@@ -39,10 +39,11 @@ I am dedicated to self-paced learning, focusing on mastering the fundamentals of
 
 ### Systematic Program Design - Part 1
 
-| Module                             | Status      |    Notes        |
-| ---------------------------------- | --------    | :-------------: |
-| 0: Introduction                    | Completed    |         -       |
-| 1a: Beginning Student Language     | [Learning Booleans and if Expressions](Core-CS/Systematic-Program-Design/Part-01/1a-BSL/bsl.md#booleans-and-if-expressions) |   [Link](Core-CS/Systematic-Program-Design/Part-01/1a-BSL/bsl.md)   |
+| Module                             | Status      |
+| :--------------------------------- | :---------: |
+| 0: Introduction                    | Completed   |
+| 1a: Beginning Student Language     | Completed   |
+| 1b: How to Design Functions        | [Working on practice problems before attempting quiz](Core-CS/Systematic-Program-Design/Part-01/1b-HtDF/practice-problems) |
 
 ---
 
@@ -70,7 +71,7 @@ The OSSU curriculum contains several topics, each with multiple courses. Below i
 
 | Courses | Topics covered | Notes | Certificate |
 | :-- | :--: | :--: | :--: |
-| [Systematic Program Design](https://www.edx.org/course/how-to-code-simple-data) | `BSL` `HtDF` | - | - |
+| [Systematic Program Design](https://www.edx.org/course/how-to-code-simple-data) | `BSL` `HtDF` | [link](Core-CS/Systematic-Program-Design/Notes/Part-01-Notes.md) | - |
 | [Class-based Program Design](https://course.ccs.neu.edu/cs2510sp22/index.html) | - | - | - |
 | [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | - | - | - |
 | [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | - | - | - |
