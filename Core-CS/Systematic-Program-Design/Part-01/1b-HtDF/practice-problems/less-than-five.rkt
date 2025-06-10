@@ -17,5 +17,12 @@
 
 ; (define (is-length-long s) true)          ;stub
 
-(define (is-length-long s)                  ;template
-    (... s))
+; (define (is-length-long s)                  ;template
+;     (... s))
+
+(define (is-length-long s)
+    (< (string-length s) 5))
+
+(is-length-long "Hey there!")
+(is-length-long "mine")
+(is-length-long "fella")
