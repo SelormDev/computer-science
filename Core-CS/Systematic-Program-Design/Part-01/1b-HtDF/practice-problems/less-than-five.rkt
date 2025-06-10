@@ -11,6 +11,8 @@
 ; String -> Boolean
 ; Determine whether the length of a string is less than 5
 
-(define (check-length s) 0)          ;stub
+; (check-expect (is-length-long "hello") (< (string-length "hello") 5))
+; (check-expect (is-length-long "friend") (< (string-length "friend") 5))
+; (check-expect (is-length-long "best") (< (string-length "best") 5))
 
-(check-length "hi")
+(define (is-length-long s) true)          ;stub
