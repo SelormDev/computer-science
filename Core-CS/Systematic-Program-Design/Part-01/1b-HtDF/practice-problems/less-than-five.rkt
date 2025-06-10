@@ -15,4 +15,7 @@
 ; (check-expect (is-length-long "friend") (< (string-length "friend") 5))
 ; (check-expect (is-length-long "best") (< (string-length "best") 5))
 
-(define (is-length-long s) true)          ;stub
+; (define (is-length-long s) true)          ;stub
+
+(define (is-length-long s)                  ;template
+    (... s))
