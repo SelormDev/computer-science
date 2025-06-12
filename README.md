@@ -219,21 +219,3 @@ As I complete each course, I will:
 - Share my learnings and key takeaways in the form of blog posts or video tutorials.
 
 Stay tuned for more updates as I continue through the OSSU curriculum!
-
----
-
-### 👤 Author
-
-- [SelormDev](https://selormdev.com)
-- [LinkedIn](https://www.linkedin.com/in/selormdev)
-
-### 🛠️ Tools & Technologies
-
-- Python
-- JavaScript
-- DrRacket
-- Git & GitHub
-
-### 📜 License
-
-This repository is licensed under the [MIT License](./LICENSE).
