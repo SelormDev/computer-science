@@ -1,3 +1,5 @@
+#lang htdp/bsl
+
 ; PROBLEM:
     
 ; There may be more than one problem with this function design. Uncomment 
@@ -12,8 +14,8 @@
 (check-expect (double -1) -2)
 
 
-#;
+
 (define (double n) 0) ; stub
 
 (define (double n)
-  (* (2 n)))
+  (* 2 n))
