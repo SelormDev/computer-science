@@ -43,7 +43,7 @@ I am dedicated to self-paced learning, focusing on mastering the fundamentals of
 | :--------------------------------- | :---------: |
 | 0: Introduction                    | Completed   |
 | 1a: Beginning Student Language     | Completed   |
-| 1b: How to Design Functions        | [Working on practice problems before attempting quiz](Core-CS/Systematic-Program-Design/Part-01/1b-HtDF/practice-problems) |
+| 1b: How to Design Functions        | [Attempting Quiz 1](Core-CS/Systematic-Program-Design/Part-01/1b-HtDF/quiz/quiz-1.rkt) |
 
 ---
 
