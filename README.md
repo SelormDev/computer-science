@@ -49,7 +49,7 @@ I am dedicated to self-paced learning, focusing on mastering the fundamentals of
 
 ## 📝 Detailed Learning Path & Progress
 
-The OSSU curriculum contains several topics, each with multiple courses. Below is a table listing all the main areas of study with checkboxes for tracking my progress.
+The OSSU curriculum contains several topics, each with multiple courses. Below is a table listing all the main areas of study.
 
 ### 📚 Intro CS
 
