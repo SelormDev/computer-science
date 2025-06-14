@@ -57,13 +57,13 @@ The OSSU curriculum contains several topics, each with multiple courses. Below i
 
 | Courses | Topics covered | Notes | Certificate |
 | :-- | :--: | :--: | :--: |
-| [Introduction to programming](https://www.coursera.org/learn/python?specialization=python) | `simple programs` `simple data structures` | [Link](Intro-CS\01-Introduction-to-Programming\PY4E\Notes.md) | [<img src="./certificates/p4e.png" width="350px" />](https://www.coursera.org/account/accomplishments/records/R4XR4UMS5Z49) |
+| [Introduction to programming](https://www.coursera.org/learn/python?specialization=python) | `simple programs` `simple data structures` | - | [<img src="./certificates/p4e.png" width="350px" />](https://www.coursera.org/account/accomplishments/records/R4XR4UMS5Z49) |
 
 #### &#9989; Introduction to Computer Science
 
 | Courses | Topics covered |  Notes  | Certificate |
 | :-- | :--: | :--: | :--: |
-|[Introduction to Computer Science and Programming using Python](https://www.edx.org/learn/computer-science/massachusetts-institute-of-technology-introduction-to-computer-science-and-programming-using-python) | `computation` `imperative programming` `basic data structures and algorithms` | [Link](Intro-CS\01-Introduction-to-Programming\PY4E\Notes.md) | [<img src="./certificates/intro-to-cs-with-python.png">](https://courses.edx.org/certificates/b4226add6fc94636bf7485a8e6f4423f) |
+|[Introduction to Computer Science and Programming using Python](https://www.edx.org/learn/computer-science/massachusetts-institute-of-technology-introduction-to-computer-science-and-programming-using-python) | `computation` `imperative programming` `basic data structures and algorithms` | - | [<img src="./certificates/intro-to-cs-with-python.png">](https://courses.edx.org/certificates/b4226add6fc94636bf7485a8e6f4423f) |
 
 ### 📚 Core CS
 
