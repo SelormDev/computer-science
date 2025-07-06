@@ -44,7 +44,7 @@ I am dedicated to self-paced learning, focusing on mastering the fundamentals of
 | 0: Introduction                    | Completed   |
 | 1a: Beginning Student Language     | Completed   |
 | 1b: How to Design Functions        | Completed   |
-| 2: How to Design Data              | [Learning cond Expressions](Core-CS/Systematic-Program-Design/Part-01/2-HtDD/notes.md) |
+| 2: How to Design Data              | [Learning Atomic Non-Distinct Data](Core-CS/Systematic-Program-Design/Part-01/2-HtDD/notes.md#atomic-non-distinct-data) |
 
 ---
 
