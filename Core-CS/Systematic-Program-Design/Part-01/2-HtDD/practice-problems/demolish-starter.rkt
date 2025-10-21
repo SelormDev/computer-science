@@ -15,6 +15,21 @@
 ; Design a data definition to represent these classification levels. 
 ; Call it BuildingStatus.
 
+; Solution
+
+;; BuildingStatus is one of:
+;; - "new"
+;; - "old"
+;; - "heritage"
+;; interp. classification level of a building
+
+;; <examples are redundant for enumerations>
+
+(define (fn-for-building-status status)
+  (cond [(string=? "new" status) (...)]
+        [(string=? "old" status) (...)]
+        [(string=? "heritage" status) (...)]))
+
 
 ;; =================
 ;; Functions:
