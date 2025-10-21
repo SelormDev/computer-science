@@ -1,7 +1,5 @@
 #lang htdp/bsl
 
-; (require 2htdp/image)
-
 ;; =================
 ;; Data definitions:
 
@@ -25,10 +23,17 @@
 
 ;; <examples are redundant for enumerations>
 
+#;
 (define (fn-for-building-status status)
   (cond [(string=? "new" status) (...)]
         [(string=? "old" status) (...)]
         [(string=? "heritage" status) (...)]))
+
+;; Template rules used:
+;;  - one of: 3 cases
+;;  - atomic distinct: "new"
+;;  - atomic distinct: "old"
+;;  - atomic distinct: "heritage"
 
 
 ;; =================
@@ -39,3 +44,23 @@
 ; The city wants to demolish all buildings classified as "old". 
 ; You are hired to design a function called demolish? 
 ; that determines whether a building should be torn down or not.
+
+; Solution
+
+
+;; BuildingStatus -> Boolean                           ;signature
+
+;; Determine whether a building should be torn down    ;purpose
+
+(check-expect (demolish "new") false)
+(check-expect (demolish "old") true)
+(check-expect (demolish "heritage") false)
+
+
+;(define (demolish? stat) "old")                      ;stub
+
+; Use template from BuildingStatus
+
+(define (demolish status)
+  (cond [(string=? "old" status) true]
+        [else false]))
